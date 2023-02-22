@@ -5,7 +5,7 @@
  *
  * Return: On success 1
  */
-void print_alphabet_x10(void)
+void print_alphabet(void)
 {
 	char i;
 
@@ -14,5 +14,5 @@ void print_alphabet_x10(void)
 		putchar(i);
 	}
 
-	putchar('\n')
+	putchar('\n');
 }

@@ -1,3 +1,2 @@
 #!/bin/bash
-ar -rc libmy.a my_file.o my_net.o my_math.o
-ranlib libmy.a
+ar -rc libmy.a main.h

@@ -1,13 +1,15 @@
+#include "main.h"
 #include <stdio.h>
-
 /**
- * Main - A program that prints its name
+ * main - A program that prints its name
  *@argc: Arguement count
  *@argv: Arguement variable
  * Return: 0 success
  */
-int main(int argc __attribute__((unused)), char *argv[])
+int main(int argc, char *argv[])
 {
-	printf("%s\n", *argv);
+	argc = 0;
+
+	printf("%s\n", *argv[argc]);
 	return (0);
 }

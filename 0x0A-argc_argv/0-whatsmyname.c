@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * main - A program that prints its name
+ * main - prints its name + \n
  *@argc: Arguement count
  *@argv: Arguement variable
  * Return: 0 success

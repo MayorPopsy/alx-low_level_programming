@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * Main - A program that prints its name 
- *@argc: Arguement count 
+ * Main - A program that prints its name
+ *@argc: Arguement count
  *@argv: Arguement variable
  * Return: 0 success
  */
